@@ -1,0 +1,138 @@
+[Mon Dec  1 15:10:38 2025] INFO: Received registration request from 127.0.0.1:43408 - Data: 10.1.130.75:8080
+[Mon Dec  1 15:10:38 2025] INFO: Storage Server 10.1.130.75:8080 - Directory Path: SS1SS1/backup
+[Mon Dec  1 15:10:38 2025] INFO: Received file: SS1/backup/lol.txt
+[Mon Dec  1 15:10:38 2025] INFO: Received file: SS1/lol.txt
+[Mon Dec  1 15:10:38 2025] INFO: Successfully registered storage server 10.1.130.75:8080 (Server Count: 1)
+[Mon Dec  1 15:10:44 2025] INFO: Received registration request from 127.0.0.1:50958 - Data: 10.1.130.75:7070
+[Mon Dec  1 15:10:44 2025] INFO: Storage Server 10.1.130.75:7070 - Directory Path: SS2
+[Mon Dec  1 15:10:44 2025] INFO: Received file: SS2/check2.tar.gz
+[Mon Dec  1 15:10:44 2025] INFO: Received file: SS2/check
+[Mon Dec  1 15:10:44 2025] INFO: Received file: SS2/check/SS1
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/check/SS1/backup
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/check/SS1/backup/lol.txt
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/check/hello.txt
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/check/lol.txt
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/backup
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/backup/check2.tar.gz
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/backup/check
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/backup/check/SS1
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/backup/check/hello.txt
+[Mon Dec  1 15:10:45 2025] INFO: Received file: SS2/backup/check/lol.txt
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/backup/check2
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/backup/check2/SS1
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/backup/check2/SS1/a
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/backup/check2/SS1/a/lol.txt
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/backup/check2/no
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/backup/check2/lol.txt
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/check2
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/check2/SS1
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/check2/SS1/a
+[Mon Dec  1 15:10:46 2025] INFO: Received file: SS2/check2/SS1/a/lol.txt
+[Mon Dec  1 15:10:47 2025] INFO: Received file: SS2/check2/no
+[Mon Dec  1 15:10:47 2025] INFO: Received file: SS2/check2/lol.txt
+[Mon Dec  1 15:10:47 2025] INFO: Successfully registered storage server 10.1.130.75:7070 (Server Count: 2)
+[Mon Dec  1 15:19:11 2025] WARNING: Storage server 10.1.130.75:8080 is DOWN after 3 failed health checks
+[Mon Dec  1 15:19:13 2025] WARNING: Storage server 10.1.130.75:7070 is DOWN after 3 failed health checks
+[Mon Dec  1 15:19:21 2025] INFO: Received registration request from 127.0.0.1:43802 - Data: 10.1.130.75:7070
+[Mon Dec  1 15:19:21 2025] INFO: Storage Server 10.1.130.75:7070 - Directory Path: SS2
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/check2.tar.gz
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/check
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/check/SS1
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/check/SS1/backup
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/check/SS1/backup/lol.txt
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/check/hello.txt
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/check/lol.txt
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/backup
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/backup/check2.tar.gz
+[Mon Dec  1 15:19:21 2025] INFO: Received file: SS2/backup/check
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check/SS1
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check/hello.txt
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check/lol.txt
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check2
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check2/SS1
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check2/SS1/a
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check2/SS1/a/lol.txt
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check2/no
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/backup/check2/lol.txt
+[Mon Dec  1 15:19:22 2025] INFO: Received file: SS2/check2
+[Mon Dec  1 15:19:23 2025] INFO: Received file: SS2/check2/SS1
+[Mon Dec  1 15:19:23 2025] INFO: Received file: SS2/check2/SS1/a
+[Mon Dec  1 15:19:23 2025] INFO: Received file: SS2/check2/SS1/a/lol.txt
+[Mon Dec  1 15:19:23 2025] INFO: Received file: SS2/check2/no
+[Mon Dec  1 15:19:23 2025] INFO: Received file: SS2/check2/lol.txt
+[Mon Dec  1 15:19:23 2025] INFO: Successfully registered storage server 10.1.130.75:7070 (Server Count: 1)
+[Mon Dec  1 15:19:25 2025] INFO: Received registration request from 127.0.0.1:43814 - Data: 10.1.130.75:8080
+[Mon Dec  1 15:19:25 2025] INFO: Storage Server 10.1.130.75:8080 - Directory Path: SS1
+[Mon Dec  1 15:19:25 2025] INFO: Received file: SS1/backup
+[Mon Dec  1 15:19:25 2025] INFO: Received file: SS1/backup/lol.txt
+[Mon Dec  1 15:19:25 2025] INFO: Received file: SS1/lol.txt
+[Mon Dec  1 15:19:25 2025] INFO: Successfully registered storage server 10.1.130.75:8080 (Server Count: 2)
+[Mon Dec  1 15:21:46 2025] WARNING: Storage server 10.1.130.75:8080 is DOWN after 3 failed health checks
+[Mon Dec  1 15:21:53 2025] INFO: Received registration request from 127.0.0.1:36884 - Data: 10.1.130.75:7070
+[Mon Dec  1 15:21:53 2025] INFO: Storage Server 10.1.130.75:7070 - Directory Path: SS2
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/check2.tar.gz
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/check
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/check/SS1
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/check/SS1/backup
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/check/SS1/backup/lol.txt
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/check/hello.txt
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/check/lol.txt
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/backup
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/backup/check2.tar.gz
+[Mon Dec  1 15:21:53 2025] INFO: Received file: SS2/backup/check
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check/SS1
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check/hello.txt
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check/lol.txt
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check2
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check2/SS1
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check2/SS1/a
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check2/SS1/a/lol.txt
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check2/no
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/backup/check2/lol.txt
+[Mon Dec  1 15:21:54 2025] INFO: Received file: SS2/check2
+[Mon Dec  1 15:21:55 2025] INFO: Received file: SS2/check2/SS1
+[Mon Dec  1 15:21:55 2025] INFO: Received file: SS2/check2/SS1/a
+[Mon Dec  1 15:21:55 2025] INFO: Received file: SS2/check2/SS1/a/lol.txt
+[Mon Dec  1 15:21:55 2025] INFO: Received file: SS2/check2/no
+[Mon Dec  1 15:21:55 2025] INFO: Received file: SS2/check2/lol.txt
+[Mon Dec  1 15:21:55 2025] INFO: Successfully registered storage server 10.1.130.75:7070 (Server Count: 1)
+[Mon Dec  1 15:21:56 2025] INFO: Received registration request from 127.0.0.1:36886 - Data: 10.1.130.75:8080
+[Mon Dec  1 15:21:56 2025] INFO: Storage Server 10.1.130.75:8080 - Directory Path: SS1SS1/backup
+[Mon Dec  1 15:21:56 2025] INFO: Received file: SS1/backup/lol.txt
+[Mon Dec  1 15:21:56 2025] INFO: Received file: SS1/lol.txt
+[Mon Dec  1 15:21:56 2025] INFO: Successfully registered storage server 10.1.130.75:8080 (Server Count: 2)
+[Mon Dec  1 15:22:22 2025] WARNING: Storage server 10.1.130.75:8080 is DOWN after 3 failed health checks
+[Mon Dec  1 15:25:00 2025] INFO: Received registration request from 127.0.0.1:36802 - Data: 10.1.130.75:7070
+[Mon Dec  1 15:25:00 2025] INFO: Storage Server 10.1.130.75:7070 - Directory Path: SS2
+[Mon Dec  1 15:25:00 2025] INFO: Received file: SS2/check2.tar.gz
+[Mon Dec  1 15:25:00 2025] INFO: Received file: SS2/check
+[Mon Dec  1 15:25:00 2025] INFO: Received file: SS2/check/SS1
+[Mon Dec  1 15:25:00 2025] INFO: Received file: SS2/check/SS1/backup
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/check/SS1/backup/lol.txt
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/check/hello.txt
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/check/lol.txt
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/backup
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/backup/check2.tar.gz
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/backup/check
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/backup/check/SS1
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/backup/check/hello.txt
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/backup/check/lol.txt
+[Mon Dec  1 15:25:01 2025] INFO: Received file: SS2/backup/check2
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/backup/check2/SS1
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/backup/check2/SS1/a
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/backup/check2/SS1/a/lol.txt
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/backup/check2/no
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/backup/check2/lol.txt
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/check2
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/check2/SS1
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/check2/SS1/a
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/check2/SS1/a/lol.txt
+[Mon Dec  1 15:25:02 2025] INFO: Received file: SS2/check2/no
+[Mon Dec  1 15:25:03 2025] INFO: Received file: SS2/check2/lol.txt
+[Mon Dec  1 15:25:03 2025] INFO: Received registration request from 127.0.0.1:42084 - Data: 10.1.130.75:8080
+[Mon Dec  1 15:25:03 2025] INFO: Successfully registered storage server 10.1.130.75:7070 (Server Count: 1)
+[Mon Dec  1 15:25:03 2025] INFO: Storage Server 10.1.130.75:8080 - Directory Path: SS1SS1/backup
+[Mon Dec  1 15:25:03 2025] INFO: Received file: SS1/backup/lol.txt
+[Mon Dec  1 15:25:03 2025] INFO: Received file: SS1/lol.txt
+[Mon Dec  1 15:25:03 2025] INFO: Successfully registered storage server 10.1.130.75:8080 (Server Count: 2)
+[Mon Dec  1 15:26:59 2025] WARNING: Storage server 10.1.130.75:7070 is DOWN after 3 failed health checks
